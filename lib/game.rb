@@ -72,8 +72,4 @@ class Game
     
   end
   
-    #makes valid moves
-    #asks for input again after a failed validation
-    #changes to player 2 after the first turn
-  
 end
